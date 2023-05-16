@@ -1,0 +1,11 @@
+#Open up a terminal and run this 
+conda create --name myenv
+
+#Activate the conda environment
+conda activate myenv
+
+#Install NumPy
+conda install numpy
+
+#Launch vscode
+code .

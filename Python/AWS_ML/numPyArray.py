@@ -9,23 +9,17 @@ Among other things, it contains:
 
 '''Inspecting your array'''
 
+import numpy as np 
 
-#Importing the numpy library
-import numpy as np
-
-#Creating an array
-
-a=np.arrange(15).reshape(3,5)  #Create array with range 0-14 in 3 by 5 dimesion
-b=np.zeros((3,5))   #Create array with zeroes
-c=np.ones((2,3,4), dtype=np.int16)   #Create array with ones and defining date types
+a=np.arange (15).reshape(3,5)
+b=np.zeros((3,5))
+c=np.ones((2,3,4), dtype=np.int16)
 d=np.ones((3,5))
 
-a.shape  #Array dimension
-len(b)  #Length of array
-c.ndim  #Number of array dimensions
-a.size  #Number of array elements
-b.dtype  #Data type of array elements
-c.dtype.name  #Name of data type
-c.astype(float)  #Convert an array to a different type
-
-
+a.shape
+len(b)
+c.ndim
+a.size
+b.dtype
+c.dtype.name
+c.astype(float)

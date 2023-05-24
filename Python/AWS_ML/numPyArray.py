@@ -11,15 +11,22 @@ Among other things, it contains:
 
 import numpy as np 
 
-a=np.arange (15).reshape(3,5)
-b=np.zeros((3,5))
-c=np.ones((2,3,4), dtype=np.int16)
-d=np.ones((3,5))
+# Create array
+a = np.arange(15).reshape(3, 5) # Create array with range 0-14 in 3 by 5 dimension
+b = np.zeros((3,5)) # Create array with zeroes
+c = np.ones( (2,3,4), dtype=np.int16 ) # Createarray with ones and defining data types
+d = np.ones((3,5))
 
-a.shape
-len(b)
-c.ndim
-a.size
-b.dtype
-c.dtype.name
-c.astype(float)
+a.shape # Array dimension
+
+len(b)# Length of array
+
+c.ndim # Number of array dimensions
+
+a.size # Number of array elements
+
+b.dtype # Data type of array elements
+
+c.dtype.name # Name of data type
+
+c.astype(float) # Convert an array type to a different type

@@ -19,3 +19,10 @@ To enhance the experience of R in VS Code, the following software and packages a
 
 
 If you run into any issues installing the R packages or the R extension for VS Code, go to the installation wiki pages ([Windows](#https://github.com/REditorSupport/vscode-R/wiki/Installation:-Windows) |[ macOS](#https://github.com/REditorSupport/vscode-R/wiki/Installation:-macOS) | [Linux](#https://github.com/REditorSupport/vscode-R/wiki/Installation:-Linux)) for more details
+
+
+
+## References (external)
+  [r-bloggers.com](#https://www.r-bloggers.com/)
+
+  [crantastic.org](#https://rdrr.io/cran/crantastic/)

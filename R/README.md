@@ -26,5 +26,8 @@ If you run into any issues installing the R packages or the R extension for VS C
   [r-bloggers.com](#https://www.r-bloggers.com/)
 
   [crantastic.org](#https://rdrr.io/cran/crantastic/)
+<<<<<<< HEAD:R/Installation.md
 
   
+=======
+>>>>>>> 87b57ed9878538403b73a3e0610cfa65c11ab3ef:R/README.md

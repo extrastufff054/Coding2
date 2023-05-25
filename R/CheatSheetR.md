@@ -137,6 +137,8 @@ write.csv(data, "output.csv")
     > Reading data from CSV: read.csv("file.csv")
     > Writing data to CSV: write.csv(data, "file.csv")
 ## 9. Additional Resources:
-    > R Documentation: https://www.rdocumentation.org/
+  [R Documentation](#https://www.rdocumentation.org/)
 
-    > RStudio Cheat Sheets: https://www.rstudio.com/resources/cheatsheets/
+  [RStudio Cheat Sheets](#https://www.rstudio.com/resources/cheatsheets/)
+
+  [R programming tutorial](#https://youtu.be/oPjZK4Apgug)

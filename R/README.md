@@ -24,6 +24,6 @@ If you run into any issues installing the R packages or the R extension for VS C
   #1. 
 
 ## References (external)
-  [r-bloggers.com](#https://www.r-bloggers.com/)
+  [r-bloggers.com](https://www.r-bloggers.com/)
 
-  [crantastic.org](#https://rdrr.io/cran/crantastic/)
+  [crantastic.org](https://rdrr.io/cran/crantastic/)

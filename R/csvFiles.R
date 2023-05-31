@@ -314,6 +314,4 @@
 
                         #2. Find the minimum value in a vector
                             min_value <- min(stores)
-                            print(min_value)
-
-                
+                            print(min_value) 
